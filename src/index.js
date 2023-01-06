@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 const rootID = document.getElementById('root')
-rootID.style.backgroundColor="#ffffff"
 const root = ReactDOM.createRoot(rootID);
 root.render(
   <React.StrictMode>
